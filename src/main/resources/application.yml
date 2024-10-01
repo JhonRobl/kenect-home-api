@@ -1,0 +1,13 @@
+# kenenct-api url and bearer token
+spring:
+  baseUrl: "https://k-messages-api.herokuapp.com/api/v1/contacts"
+  bearerToken: "J7ybt6jv6pdJ4gyQP9gNonsY"
+
+# Set root logger level to INFO.
+log4j:
+  rootLogger: INFO, stdout
+
+# Set the context path for the application
+server:
+  servlet:
+    context-path: /home-api
