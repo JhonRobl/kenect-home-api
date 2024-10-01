@@ -9,7 +9,9 @@
 
 # Start the application
 
-On the HomeApiApplication file, right click and the run application option
+On the HomeApiApplication file,  right click and then run application.
+
+![img_2.png](img_2.png)
 
 # Swagger Documentation
 
